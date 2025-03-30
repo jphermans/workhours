@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "bb837245baad8b12def7c43565f62d82b7910a6e39ec4fd8ccaccead7b58c4a1"
+build_start_time: [1743274099, 70868000]
+build_end_time: [1743274101, 679196000]
+inputs:
+  "/Users/jphermans/development/Swift/Workhours/Workhours/ContentView.swift": !dirty [1743273855, 721318681]
+  "/Users/jphermans/development/Swift/Workhours/Workhours/WorkhoursApp.swift": !dirty [1743273963, 289329141]
+  ? "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1743274098, 830931019]

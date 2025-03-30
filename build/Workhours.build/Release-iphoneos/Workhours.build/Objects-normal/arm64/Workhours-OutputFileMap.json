@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/Workhours-master.swiftconstvalues",
+    "dependencies" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/Workhours-master.d",
+    "diagnostics" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/Workhours-master.dia",
+    "emit-module-dependencies" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/Workhours-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/Workhours-master-emit-module.dia",
+    "swift-dependencies" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/Workhours-master.swiftdeps"
+  },
+  "/Users/jphermans/development/Swift/Workhours/Workhours/ContentView.swift" : {
+    "index-unit-output-path" : "/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/jphermans/development/Swift/Workhours/Workhours/WorkhoursApp.swift" : {
+    "index-unit-output-path" : "/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/WorkhoursApp.o",
+    "llvm-bc" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/WorkhoursApp.bc",
+    "object" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/WorkhoursApp.o"
+  },
+  "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/jphermans/development/Swift/Workhours/build/Workhours.build/Release-iphoneos/Workhours.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
